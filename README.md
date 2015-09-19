@@ -3,7 +3,9 @@
 Recently I participated in my first coding competition. As someone without a formal coding background, this competition was a great experience because it exposed me to some of the types of problems that computer science college students might work on in their studies. One of the competition challenges was to create a command line I/O program that makes fractions from fractions. The rules are:
 
 1) Numerators can only be `1` 
+
 2) Any denominator can only be used once
+
 3) Only the largest possible denominators should be used
 
 Input: two integers, separated by one space (representing a fraction)
